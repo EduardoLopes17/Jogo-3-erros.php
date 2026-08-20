@@ -17,5 +17,3 @@ Erros:
 
 <a href="index.php?excluir=...">Excluir</a>
 if (isset($_GET['excluir']))
-
-
